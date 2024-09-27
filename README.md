@@ -1,4 +1,13 @@
-## Hi there 👋
+Meu nome é Fernando Yugo Ushiwata
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+**Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
+
+@alurastartestudante
+![](https://media.tenor.com/M4T6_KH_GWMAAAAM/calma-calabreso-calma-calma-calabreso.gif)**
 
 <!--
 **Yuguizinho1239/Yuguizinho1239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
